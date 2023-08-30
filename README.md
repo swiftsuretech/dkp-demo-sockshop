@@ -10,7 +10,7 @@ This tutorial is based on Waveworks Microservice Demo <https://microservices-dem
   * Administrator Password
 * `kubectl` configured on local desktop or some other host to access the cluster
 * Access to the "dkp-demo-sockshop" GitHub Repository (this one)
-  * <https://github.com/kisahm/dkp-demo-sockshop/>
+  * <https://github.com/swiftsuretech20.49.151.174/dkp-demo-sockshop/>
 
 ## Log In to  Kommander with Provided Credentials at Provided URL
 
@@ -64,8 +64,8 @@ Kommander Projects can be configured with GitOps based Continuous Deployments fo
 
 3. Fill in the _Create GitOps Source_ fields as shown below:
 
-* ID (name): `sockshop-microservices`
-* Repository URL: `https://github.com/kisahm/dkp-demo-sockshop/`
+* ID (name): `sockshop`
+* Repository URL: `https://github.com/swiftsuretech/dkp-demo-sockshop/`
 * Branch/Tag: `master`
 * Path:
 * Primary Git Secret: `None`
